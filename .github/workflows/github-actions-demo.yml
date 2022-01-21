@@ -25,6 +25,6 @@ jobs:
         if: ${{ env.DAY_OF_WEEK == 'Mon' }}
         run: echo "Hello $FIRST_NAME $middle_name $Last_Name, today is Monday!"
         env:
-          FIRST_NAME: Mona
-          middle_name: The
-          Last_Name: Octocat
+          FIRST_NAME: CHETAN
+          middle_name: Raj  
+          Last_Name: RAJPAL
